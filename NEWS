@@ -1,4 +1,15 @@
 --------------------------------------------
+2026-04-30: Release 0.36
+--------------------------------------------
+
+This is a bug fix release.
+
+Changes of note since the 0.35 release:
+
+- Fixed handling of connection closure for multiple TCP servers.
+
+
+--------------------------------------------
 2026-04-30: Release 0.35
 --------------------------------------------
 

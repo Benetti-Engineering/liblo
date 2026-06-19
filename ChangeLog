@@ -1,3 +1,6 @@
+2026-06-19 Stephen Sinclair <radarsat1@gmail.com>
+	* Fixed handling of connection closure for multiple TCP servers.
+
 2026-04-30 Stephen Sinclair <radarsat1@gmail.com>
 	* Added Message::clear()
 	* Added lo_bundle_clear() and lo_bundle_set_timestamp()
